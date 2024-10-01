@@ -1,6 +1,5 @@
 # Login-de-Info-de-pagina-web
 
-<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -147,7 +146,7 @@
                 <ul>
                     <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/ARTICULO%20INVESTIGATIVO/CODIGO%20HTML/P%C3%A1gina%20Web.html#inicio">Pagina Web (Sublime)</a></li>
                     <li><a href="https://santiago1706.github.io/Alfabetizaci-n-en-el-Reciclaje-de-Artefactos-Tecnol-gico-en-el-C.D.S/">Pagina web (Github)</a></li>
-                    <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/ARTICULO%20INVESTIGATIVO/CODIGO%20HTML/TEXT%20HTML">Codigo HTML</a></li>
+                    <li><a href="https://drive.google.com/file/d/1j838E-ayF-narYC3VTPPesSbrsroUwDP/view?usp=sharing">Codigo HTML</a></li>
                 </ul>
             </nav>
             <button id="logoutBtn">Cerrar Sesión</button>
